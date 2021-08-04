@@ -13,6 +13,6 @@ setup(
     ],                                     
     python_requires='>=3.6',               
     py_modules=["primecheck"],           
-    package_dir={'':'primecheck/src'},   
+    package_dir={'':'primecheck/primecheck'},   
     install_requires=[]                    
 )
