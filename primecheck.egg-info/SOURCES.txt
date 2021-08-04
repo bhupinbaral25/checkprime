@@ -1,8 +1,0 @@
-LICENSE.txt
-README.txt
-setup.cfg
-setup.py
-primecheck.egg-info/PKG-INFO
-primecheck.egg-info/SOURCES.txt
-primecheck.egg-info/dependency_links.txt
-primecheck.egg-info/top_level.txt

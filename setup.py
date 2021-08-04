@@ -1,10 +1,10 @@
 from setuptools import setup
 setup(
-    name="primecheck",                     
+    name="checkprime",                     
     version="0.0.1",                        
     author= "Bhupin Baral", 
-    url = 'https://github.com/bhupinbaral25/primecheck',      
-    download_url ='https://github.com/bhupinbaral25/primecheck/releases/tag/0.0.1' ,            
+    url = 'https://github.com/bhupinbaral25/checkprime',      
+    #download_url ='https://github.com/bhupinbaral25/checkprime/releases/tag/0.0.1' ,            
         
     description="This nodules checks wheather your number is prime or not ",
       
@@ -14,7 +14,7 @@ setup(
         "Operating System :: OS Independent",
     ],                                     
     python_requires='>=3.6',               
-    py_modules=["primecheck"],           
+    py_modules=["checkprime"],           
     
       
     install_requires=[]                    
